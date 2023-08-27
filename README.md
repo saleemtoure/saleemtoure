@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saleem</h1>
-<h3 align="center">Studying Informatics: Digital Economy and Leadership</h3>
+<h3 align="center">Studying Informatics: Digital Economy and Leadership (University of Oslo)</h3>
 
 - 🔭 I’m currently working on [a YouTube downloader](https://github.com/saleemtoure/learn-python-GUI/tree/main/youtube-downloader)
 
