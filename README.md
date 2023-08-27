@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saleem</h1>
 <h3 align="center">Studying Informatics: Digital Economy and Leadership (University of Oslo)</h3>
 
-- 👨🏿‍💻 Take a look at my [Portfolio](https://github.com/saleemtoure/learn-python-GUI/tree/main/youtube-downloader)
-
+- 👨🏿‍💻 Take a look at my [Portfolio](https://saleemtoure.github.io/)
 - 🔭 I’m currently working on [a YouTube downloader](https://github.com/saleemtoure/learn-python-GUI/tree/main/youtube-downloader)
 
 - 🌱 I’m currently learning **Java as well as Python automation**
