@@ -4,7 +4,7 @@
 - 👨🏿‍💻 Take a look at my [Portfolio](https://saleemtoure.github.io/)
 - 🔭 I’m currently working on [a YouTube downloader](https://github.com/saleemtoure/learn-python-GUI/tree/main/youtube-downloader)
 
-- 🌱 I’m currently learning **Java as well as Python automation**
+- 🌱 I’m currently learning **Java**
 
 - 💼 All of my projects are available at [https://github.com/saleemtoure?tab=repositories](https://github.com/saleemtoure?tab=repositories)
 
