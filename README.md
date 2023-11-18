@@ -2,7 +2,7 @@
 <h3 align="center">Studying Informatics: Digital Economy and Leadership (University of Oslo)</h3>
 
 - 👨🏿‍💻 Take a look at my [Portfolio](https://saleemtoure.github.io/)
-- 🔭 I’m currently working on [restaurant overview](https://github.com/saleemtoure/food-review) using an API from the Norwegian Food Authority
+- 🔭 I’m currently working on [restaurant overview](https://github.com/saleemtoure/food-review) using an API from the Norwegian Food Authority and Django
 
 - 🌱 I’m currently learning **Java**
 
