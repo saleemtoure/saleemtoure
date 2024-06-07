@@ -2,11 +2,11 @@
 <h3 align="center">Studying Informatics: Digital Economy and Leadership (University of Oslo)</h3>
 
 - 👨🏿‍💻 Take a look at my [Portfolio](https://saleemtoure.github.io/)
-- 🔭 I’m currently working on [restaurant overview](https://github.com/saleemtoure/Django/tree/main/foodReview) using an API from the Norwegian Food Authority and Django
+- 🔭 I’m currently working on [restaurant overview](https://github.com/saleemtoure/mat-tilsyn-anmeldelser) using an API from the Norwegian Food Authority and Django
 
 - 🌱 I’m currently learning **Java**
 
-- 📋 My last finished project is [a YouTube downloader](https://github.com/saleemtoure/learn-python-GUI/tree/main/youtube-downloader)
+- 📋 My last finished project is [a YouTube downloader](https://github.com/saleemtoure/youtube-downloader)
 - 💼 All of my projects are available at [https://github.com/saleemtoure?tab=repositories](https://github.com/saleemtoure?tab=repositories)
 
 - 📫 How to reach me **saleemti@uio.no**
