@@ -9,7 +9,7 @@
 - 📋 My last finished project is [a YouTube downloader](https://github.com/saleemtoure/youtube-downloader)
 - 💼 All of my projects are available at [https://github.com/saleemtoure?tab=repositories](https://github.com/saleemtoure?tab=repositories)
 
-- 📫 How to reach me **saleemti@uio.no**
+- 📫 How to reach me **saleemtoure.work@gmail.no**
 
 - ⚡ Fun fact **I'm also a sports videographer as well as graphic designer**
 
