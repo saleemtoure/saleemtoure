@@ -4,7 +4,7 @@
 - 👨🏿‍💻 Take a look at my [Portfolio](https://saleemtoure.github.io/)
 - 🔭 I’m currently working on a ["Pomodoro" app](https://github.com/saleemtoure/pomodoro-app) in Java
 
-- 🌱 I’m currently learning **Java**, **Kotlin** and working with **Open Source**
+- 🌱 I’m currently learning **Java**
 
 - 📋 My last finished project is [a YouTube downloader](https://github.com/saleemtoure/youtube-downloader)
 - 💼 All of my projects are available at [https://github.com/saleemtoure?tab=repositories](https://github.com/saleemtoure?tab=repositories)
