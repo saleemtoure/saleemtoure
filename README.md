@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Java**
 
 - 📋 My last finished project is [a YouTube downloader](https://github.com/saleemtoure/youtube-downloader)
-- 💼 All of my projects are available at [https://github.com/saleemtoure?tab=repositories](https://github.com/saleemtoure?tab=repositories)
+- 💼 All of my projects are available in my [repositories](https://github.com/saleemtoure?tab=repositories)
 
 - 📫 How to reach me **saleemtoure.work@gmail.no**
 
